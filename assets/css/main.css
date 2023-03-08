@@ -32,6 +32,31 @@ body {
 	line-height: 1;
 }
 
+#natours-img,
+#weather-app,
+#library-img,
+#tic-tac-toe-img,
+#todo-img {
+	width: 400px;
+}
+
+#natours-cont,
+#weather-cont,
+#library-cont,
+#tic-tac-toe-cont,
+#todo-cont {
+	display: flex;
+	justify-content: center;
+}
+
+#library-github,
+#weather-github,
+#tic-tac-toe-github,
+#todo-github {
+	display: flex;
+	flex-direction: column;
+}
+
 ol, ul {
 	list-style: none;
 }
