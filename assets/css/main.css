@@ -36,7 +36,8 @@ body {
 #weather-app,
 #library-img,
 #tic-tac-toe-img,
-#todo-img {
+#todo-img,
+#calc-img {
 	width: 400px;
 }
 
@@ -44,7 +45,8 @@ body {
 #weather-cont,
 #library-cont,
 #tic-tac-toe-cont,
-#todo-cont {
+#todo-cont,
+#calc-cont {
 	display: flex;
 	justify-content: center;
 }
@@ -52,7 +54,8 @@ body {
 #library-github,
 #weather-github,
 #tic-tac-toe-github,
-#todo-github {
+#todo-github,
+#calc-github {
 	display: flex;
 	flex-direction: column;
 }
